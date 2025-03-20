@@ -5,7 +5,8 @@
             "1": "Soccer",
             "2": "Cross Country",
             "3": "Golf"
-        }
+        },
+        "Description": "There should have been a description here, but there wasn't. :("
     },
     "impacts": {
         "LongName": "head-to-ball impacts",
